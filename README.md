@@ -54,4 +54,4 @@ api/department/{ID}/worker/{ID}
 ```
 
 ## Database relationship
-![DB](https://www.linkpicture.com/q/db_2.png)
+![DB](https://www.linkpicture.com/q/db_4.png)
